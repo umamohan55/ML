@@ -1,13 +1,14 @@
-# Infosys Machine Learning Meetup 
+# Infosys Machine Learning Meetup Group
 
-This meet up group is about the Machine Learning enthusiasts.
+This meet up group is created for Machine Learning enthusiasts who belong to infosys Ltd. 
+This is an un-official group. Any one who want's to learn Data Science and Machine Learning can join this meet up.
 
-### Agenda
+### Meet-up agenda
 
++ Explore
 + Learn 
 + Build
 + Collaborate
-+ Ask questions
 + Share
-
-And above all have fun :)
++ Ask questions
+and above all have fun :)
