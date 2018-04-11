@@ -1,29 +1,4 @@
-<h5 style="color:red;"> Please note that the repective course links will be posted for you to check and learn on your own. So keep visiting...Thanks!</h5>
-
 # Detailed Data Science and Machine Learning Course Content
-
-### Skills to Learn
-
-+ **Science**: Determining what questions can be answered with data & what are the best datasets for answering them.
-+ **Computer programming**: using computers to analyze data.
-+ **Data wrangling**: getting data into analyzable form on our computers.
-+ **Statistics**: separating signal from noise or call it data summary.
-+ **Machine learning**: making predictions from data.
-+ **Communication**: sharing findings through visualization, stories and interpretable summaries, code base etc.
-
-### Where the data scinece is being used 
-
-+ Spellcheckers
-+ Speech recognition
-+ Language translators
-+ Digitizing books
-+ Social sciences
-+ Medical diagnostics
-+ Personalized medicine
-+ Basic Biology
-+ Autonomous Car Driving
-+ Humanoids with AI capabilities
-+ Drones
 
 # Learning & Development Environment Setup 
 
