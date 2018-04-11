@@ -1,17 +1,51 @@
+<h5 style="color:red;"> Please note that the repective course links will be posted for you to check and learn on your own. So keep visiting...Thanks!</h5>
+
 # Detailed Data Science and Machine Learning Course Content
 
-# Learning & Development Environment Set Ups
+### Skills to Learn
 
-+ Setting up Anaconda for Python and Jupyter Notebook
-+ Setting up R and R studio
++ **Science**: Determining what questions can be answered with data & what are the best datasets for answering them.
++ **Computer programming**: using computers to analyze data.
++ **Data wrangling**: getting data into analyzable form on our computers.
++ **Statistics**: separating signal from noise or call it data summary.
++ **Machine learning**: making predictions from data.
++ **Communication**: sharing findings through visualization, stories and interpretable summaries, code base etc.
+
+### Where the data scinece is being used 
+
++ Spellcheckers
++ Speech recognition
++ Language translators
++ Digitizing books
++ Social sciences
++ Medical diagnostics
++ Personalized medicine
++ Basic Biology
++ Autonomous Car Driving
++ Humanoids with AI capabilities
++ Drones
+
+# Learning & Development Environment Setup 
+
+> Windows/MAC/Linux/Azure/R/Python/Anaconda/TenserFlow/H2O.ai/OpenCV/Keras/DriverlessAI
+
++ Setting up Anaconda and Jupyter Notebook for Python
++ Setting up Anaconda and Jupyter Notebook for R
++ Setting up R and R Studio
 + Setting up TenserFlow
 + Setting up account for Azure Machine Learning
 + Setting up OpenCV
++ Understanding the Spyder Integrated Development Environment (IDE)
 
-# Learning Path - Based on Programming / Scripting Language (R, Python, JavaScript etc.)
+# Learning Path - Based on Programming / Scripting Language 
 
-### Getting Started in Python
+> R, Python, JavaScript
 
+## Python Programming
+
+### Python Basics
+
++ What is Python?
 + Python Basics – Numbers and Maths
 + Variables and Inputs
 + Lists, sets and tuples 
@@ -20,12 +54,46 @@
 + Loops
 + Reading and Writing files
 
+### Data Frame Manipulation 
+
++ Data Acquisition
++ Indexing, Filtering
++ Sorting & Summarizing
++ Descriptive Statistics
++ Combining and Merging Data Frames
++ Discretization and Binning
++ String Manipulation
+
+### Data Structures in Python
+
++ Intro to Numpy Arrays
++ Creating ndarrays
++ Indexing
++ Data Processing using Arrays
++ File Input and Output
++ Getting Started with Pandas
+
+### Other Predictive Modelling Tools 
+
++ Intro to Machine Learning
++ Random Forests
++ Sklearn Library and Statsmodels
+
+## Projects
+
++ Default Modeling using Logistic Regression in Python
++ Credit Risk Analytics using SVM in Python
++ Intrusion Detection using Decision Trees & Ensemble Learning in Python
+
+
 ### Introduction to Python Libraries
 
 + Pandas 
 + Scikit-learn
 + NumPy
 + SciPy
++ ggplot
++ matplotlib
 
 ## R Programming 
 
@@ -78,485 +146,8 @@
 + Kernel Functions
 + Default Modelling using SVM in R
 
-## Python Programming 
-
-### Python Basics 
-
-+ What is Python?
-+ Installing Anaconda
-+ Understanding the Spyder Integrated Development Environment (IDE)
-+ Lists, Tuples, Dictionaries, Variables
-
-### Data Frame Manipulation 
-
-+ Data Acquisition
-+ Indexing, Filtering
-+ Sorting & Summarizing
-+ Descriptive Statistics
-+ Combining and Merging Data Frames
-+ Discretization and Binning
-+ String Manipulation
-
-## Project
-
-+ Default Modeling using Logistic Regression in Python
-+ Credit Risk Analytics using SVM in Python
-+ Intrusion Detection using Decision Trees & Ensemble Learning in Python
-
-### Data Structures in Python
-
-+ Intro to Numpy Arrays
-+ Creating ndarrays
-+ Indexing
-+ Data Processing using Arrays
-+ File Input and Output
-+ Getting Started with Pandas
-
-### Other Predictive Modelling Tools 
-
-+ Intro to Machine Learning
-+ Random Forests
-+ Sklearn Library and Statsmodels
-
-## SAS Programming 
-
-### SAS Basics
-
-+ Key Features
-+ Submitting a SAS Program
-+ SAS Program Syntax
-+ Examining SAS Datasets Accessing SAS Libraries
-+ Sorting and Grouping
-+ Reporting Data
-+ Using SAS Formats
-
-### Data Transformations 
-
-+ Writing Observations
-+ Writing to Multiple Datasets
-+ Accumulating Total
-+ Creating Accumulating Total for a Group of Data
-+ Data Transformations
-
-## Working with SQL
-
-+ SQL & RDBMS
-+ SQL Procedures
-+ Presenting & Summarizing Data
-+ Join Queries using SQL
-+ Subqueries, Indexes and Views
-+ Set Operators
-+ Creating Tables and Views using Proc SQL
-
-### Reading and Manipulating Data 
-
-+ Reading SAS Datasets
-+ Reading Excel Data
-+ Reading Raw Files
-+ Reading Database Data
-+ Creating Summary Reports
-+ Combining Datasets
-
-### Macros 
-
-+ Automatic Macro Variables
-+ User Defined Macro Variables
-+ Macro Variable Reference
-+ Defining and Calling Macros
-+ Macro Parameters
-+ Global and Local Symbol Tables
-+ Macro Variables in the Data Step
-
-### Project 
-+ Store Data Analytics in SAS
-+ ETL, Analysis and Reporting using SAS
-
-## Tableau and Job Readiness 
-
-### Tableau Basic 
-
-+ Introduction to Visualization
-+ Working with Tableau
-+ Visualization in Depth
-+ Data Organisation
-+ Advanced Visualization
-+ Mapping
-+ Enterprise Dashboards
-+ Data Presentation
-
-# Learning Path - Based on Mathematics / Statistics / Algorithms
-
-### Introduction to Statistics 
-
-+ Overview 
-+ Important applications of Statistics
-
-### Statistics: Descriptive
-
-+ What is Descriptive Statistics?
-+ Introduction to Design experiments
-+ Visualizing Data 
-+ Central tendency
-+ Variability
-+ Normal distribution
-+ Z-Score 
-
-### Descriptive:
-+ Data collection
-+ Data collection - Questionaire Designing
-+ Data collection - Observation
-+ Data collection - Case Study Method
-+ Qualitative Data Vs Quantitative Data
-+ Data Patterns
-+ Deciles Statistics
-+ Venn Diagram
-+ Central limit theorem
-+ Chebyshev's Theorem
-+ Kurtosis
-+ Normal Distribution
-+ Laplace Distribution
-+ Log Gamma Distribution
-+ Rayleigh Distribution
-+ Exponential distribution
-+ Multinomial Distribution
-+ Binomial Distribution
-+ Beta Distribution
-+ F distribution
-+ Negative Binomial Distribution
-+ Gamma Distribution
-+ Chi-squared Distribution
-+ Geometric Mean
-+ Harmonic Mean
-+ Outlier Function
-+ Stem and Leaf Plot
-+ Poisson Distribution
-+ Cumulative Poisson Distribution
-+ Inverse Gamma Distribution
-+ Continuous Uniform Distribution
-+ Hypergeometric Distribution
-+ Harmonic Number
-+ Gumbel Distribution
-+ Comparing plots
-+ Power Calculator
-+ Process Sigma
-+ Harmonic Resonance Frequency
-+ Standard normal table
-+ Pooled Variance (r)
-+ Mean Deviation
-+ Means Difference
-
-#### central tendency:
-+ Arithmetic Mean
-+ Arithmetic Median
-+ Arithmetic Mode
-+ Arithmetic Range
-+ Range Rule of Thumb
-+ Adjusted R-Squared
-+ Standard Deviation
-+ Relative Standard Deviation
-+ Analysis of Variance
-+ Grand Mean
-+ Boxplots
-+ Quartile Deviation
-+ Frequency Distribution
-+ Bar Graph
-+ Dot Plot
-+ Scatterplots
-+ Correlation Co-efficient
-+ Pie Chart
-+ Histograms
-+ Cumulative Frequency
-+ Cumulative plots
-+ Skewness
-+ Goodness of Fit
-+ Transformations
-+ Trimmed Mean
-+ Reliability Coefficient
-+ Linear regression
-+ Logistic Regression
-+ Quadratic Regression
-+ Regression Intercept Confidence Interval
-+ Residual sum of squares
-+ Equation Sum of Square
-+ Standard Error ( SE )
-+ Root Mean Square
-+ Cohen's kappa coefficient
-+ Ti 83 Exponential Regression
-+ Shannon Wiener Diversity Index
-
-### Inferential
-
-+ Statistics Notation
-+ Sample planning
-+ Sampling methods
-+ Simple random sampling
-+ Stratified sampling
-+ Cluster sampling
-+ Required Sample Size
-+ Hypothesis testing
-+ Signal to Noise Ratio
-+ Best Point Estimation
-+ Type I & II Error
-+ T-Distribution Table
-+ Residual analysis Z table
-+ F Test Table
-+ Chi Squared table
-+ Statistical Significance
-+ Co-efficient of Variation Interval
-
-### Tests - Inferential:
-
-+ Student T Test
-+ One Proportion Z Test
-+ Kolmogorov Smirnov Test
-+ Mcnemar Test
-+ Anova(1-way,2-way)
-+ Manova
-+ Chi-square test
-
-### Probability:
-
-+ Overview 
-+ Principal Of Counting
-+ Factorial
-+ Probability
-+ Odd and Even Permutation
-+ Permutation with Replacement
-+ Circular Permutation
-+ Geometric Probability Distribution
-+ Probability Density Function
-+ Probability Bayes Theorem
-+ Permutation
-+ Combination
-+ Black-Scholes model
-+ Probability Additive Theorem
-+ Combination with replacement
-+ Probability Multiplecative Theorem
-+ Estimation Process Capability (Cp) & Process Performance (Pp)
-+ Statistics Formulas
-+ Conditional Probability 
-+ Binomial Distribution
-+ Random variable 
-+ Expectation and variance
-
-# Learning Path - Based on DS / ML / DL / AI Domain
-
-## Introduction to Data Science (DS)
-
-### All about Data Science 
-
-+ Data, Data Types
-+ Meaning of Variables
-+ Central Tendency
-+ Measures of Dispersion
-+ Data Distribution
-
-### Data Exploration / Visualizaion 
-
-+ Data Exploration 
-+ Data Visualization
-+ Data Visualization Libraries 
-
-### Predictive Modelling 
-
-+ Decision Trees
-+ Neural Networks
-+ Predictive Modeling with Decision Trees
-
-### Neural Networks 
-+ Perceptron
-+ MLP
-+ Back Propagation
-+ Revision of Key Concepts
-
-### ANOVA/ Regression Analysis
-
-+ Analysis of Variance & Covariance
-+ Analysis of Variance
-+ ANOVA Results
-+ Examine Regression Results
-+ Regression Analysis
-+ Linear and Logistic Regression
-
-### Tree and Bayesian Network Models 
-
-+ Decision Trees
-+ Bagging
-+ Random Forests
-+ Boosted Trees
-+ Bayesian Classification Models
-
-### Basics of Machine Learning (ML)
-
-+ Introduction to Machine Learning
-+ Linear Regression 
-+ Logistic Regression
-+ Decision Tree 
-+ Naives Bayes 
-+ Clustering algorithms
-+ KNN
-
-### Advanced Machine Learning
-
-+ support vector machines
-+ k-nearest neighbors
-+ regression trees
-+ Ensemble Learning Basics
-+ Different Ensemble Learning methods with code 
-+ Bagging (Bootstrap Aggregation)
-+ Random Forest - Simplified
-+ Random Forest - Detailed with implementation 
-+ Boosting - Simplified
-+ Boosting - Detailed with implementation 
-
-### Hyperparameter tuning
-
-+ Different methods for finding best hyperparameters of an algorithm 
-+ Hyperparameter tuning for Random Forest 
-+ Hyperparameter tuning for GBM
-+ Hyperparameter tuning for XGBoost 
-+ Hyperparameter tuning for LightGBM 
-
-### Introduction to Deep learning
-
-+ What is Neural Networks?
-+ Theory and Implementation
-
-### CNN
-
-+ Introduction to CNN
-+ Theory 
-+ Implementation
- 
-### RNN
-
-+ Theory 
-+ Implementation
-
-### LSTM
-
-+ Theory 
-+ Implementation
-
-### Computer Vision
-
-+ Image Classification 
-+ Object detection/Localisation
-+ Research papers
-
-### Speech
-
-+ Audio classification - Theory and Implementation 
-+ Speech recognition - Theory and implementation  
-+ Speaker Identification - Theory and implementation  
-
-### Natural language processing
-
-+ Text Classification
-+ Competition
-+ Text Summarization
-+ Author Identification
-+ Competition
-+ Machine Translation
-
-# Learning Path - Based on Learning Sites (Coursera / Edx / Udemy / Udacity / Nvidia / MicrosoftAI etc.)
-
-### Courses on edx.com:
-
-+ Analytics in Python
-+ Introduction to Data Science
-+ Introduction to R for Data Science
-+ Introduction to Python for Data Science
-+ Data Science Essentials
-+ Introduction to Python: Fundamentals
-+ Introduction to python: Absolute Beginner
-+ Python for Data Science
-+ Data Science: R Basics
-+ Programming with Python for Data Science
-+ Principles of Machine Learning 
-
-
-# Learning Path - Based on Cloud Environment (MS Azure / AWS / Google Cloud)
-
-# Learning Path - Based on Learners Comfort Level (Beginner/ Intermediate / Advance)
-
-## Usefull Links - Hackathons / Projects / Quizzes
-
-## References
-
-
-
-
-
-
-
-
-
-### What does a data scientist do?
-
-
-
-### Validation strategies
-
-+ Introduction to validation
-+ Hold out cross validation
-+ Leave one out cross validation
-+ k-fold cross validation
-+ Implementation in Python
-+ Implementation in R
-+ Summary 
-
-### Machine learning projects
-
-+ Black friday
-+ Loan Prediction
-+ Big mart sales
-
-### Working with different types of Data
-
-+ Image data 
-+ Text data 
-+ Audio data 
-
-### Online learning algorithms
-+ Factorisation machines
-+ Field-Aware Factorization Machines 
-+ Implementation using XLearn
-+ Introduction to Vowpal Wabbit
-+ Projects 
-
-
-
-### Way Forward
-+ Profile Building
-+ Introduction to Github
-+ Building your Resume
-+ Participating in Competitions
-+ Project and Certifications
-+ Jobs and Internships
-
-
-
-
-### Best Practices for Dash boarding and Reporting and Case Study 
-
-+ Have a Methodology
-+ Know Your Audience
-+ Define Resulting Actions
-+ Classify Your Dashboard
-+ Profile Your Data
-+ Use Visual Features Properly
-+ Design Iteratively
-
-### Mock Interviews 
-
-+ Resume Building and Interview Prep
-+ 1:1 Mock Interviews with Industry Veterans
-+ Clear the Technical Round of Interviews
-+ Give You Confidence to Face Real World Scenarios
-
 ### R with Real Time Examples
-+ Installing R and R Studio (MAC & Windows)
+
 + Types of variables
 + Using Variables
 + Logical Variables and Operators
@@ -599,17 +190,297 @@
 + dplyr package
 + Shiny Apps
 
+## SAS Programming 
 
-### Homework Solutions
+### SAS Basics
 
-+ Homework Solution Law Of Large Numbers
-+ Homework Solution Section 3: Financial Statement Analysis
-+ Homework Solution Section 4: Basketball Free Throws
-+ Homework Solution Section 5: World Trends
-+ Homework Solution Section 6: Movie Domestic % Gross
++ Key Features
++ Submitting a SAS Program
++ SAS Program Syntax
++ Examining SAS Datasets Accessing SAS Libraries
++ Sorting and Grouping
++ Reporting Data
++ Using SAS Formats
 
+### Data Transformations 
+
++ Writing Observations
++ Writing to Multiple Datasets
++ Accumulating Total
++ Creating Accumulating Total for a Group of Data
++ Data Transformations
+
+## Working with SQL / Databases
+
++ SQL & RDBMS
++ SQL Procedures
++ Presenting & Summarizing Data
++ Join Queries using SQL
++ Subqueries, Indexes and Views
++ Set Operators
++ Creating Tables and Views using Proc SQL
+
+### Reading and Manipulating Data 
+
++ Reading SAS Datasets
++ Reading Excel Data
++ Reading Raw Files
++ Reading Database Data
++ Creating Summary Reports
++ Combining Datasets
+
+### Macros 
+
++ Automatic Macro Variables
++ User Defined Macro Variables
++ Macro Variable Reference
++ Defining and Calling Macros
++ Macro Parameters
++ Global and Local Symbol Tables
++ Macro Variables in the Data Step
+
+### Project 
+
++ Store Data Analytics in SAS
++ ETL, Analysis and Reporting using SAS
+
+## Tableau and Job Readiness 
+
+### Tableau Basic 
+
++ Introduction to Visualization
++ Working with Tableau
++ Visualization in Depth
++ Data Organisation
++ Advanced Visualization
++ Mapping
++ Enterprise Dashboards
++ Data Presentation
+
+### Tableau with Real Time Examples
+
++ Working with different data source
++ Tableau Interface
++ Working with Charts
++ Functions with Calculations
++ Advanced Topics - Actions, Parameters, Filters
++ Table Calculations, Advanced Dashboards, Storytelling
++ Connectivity with R
+
+# Learning Path - Based on Mathematics/Statistics/Algorithms
+
+### Introduction to Statistics 
+
++ Overview 
++ Important applications of Statistics
+
+### Statistics: Descriptive
+
++ What is Descriptive Statistics?
++ Introduction to Design experiments
++ Data collection
++ Data collection - Questionaire Designing
++ Data collection - Observation
++ Data collection - Case Study Method
++ Qualitative Data Vs Quantitative Data
++ Data Patterns
++ Visualizing Data 
++ Deciles Statistics
++ Venn Diagram
++ Central limit theorem
++ Chebyshev's Theorem
++ Kurtosis
++ Normal Distribution
++ Laplace Distribution
++ Log Gamma Distribution
++ Rayleigh Distribution
++ Exponential distribution
++ Multinomial Distribution
++ Binomial Distribution
++ Beta Distribution
++ F distribution
++ Negative Binomial Distribution
++ Gamma Distribution
++ Chi-squared Distribution
++ Geometric Mean
++ Harmonic Mean
++ Outlier Function
++ Stem and Leaf Plot
++ Poisson Distribution
++ Cumulative Poisson Distribution
++ Inverse Gamma Distribution
++ Continuous Uniform Distribution
++ Hypergeometric Distribution
++ Harmonic Number
++ Gumbel Distribution
++ Comparing plots
++ Power Calculator
++ Process Sigma
++ Harmonic Resonance Frequency
++ Standard normal table
++ Pooled Variance (r)
++ Mean Deviation
++ Means Difference
++ Variability
++ Z-Score 
+
+#### central tendency:
+
++ Arithmetic Mean
++ Arithmetic Median
++ Arithmetic Mode
++ Arithmetic Range
++ Range Rule of Thumb
++ Adjusted R-Squared
++ Standard Deviation
++ Relative Standard Deviation
++ Analysis of Variance
++ Grand Mean
++ Boxplots
++ Quartile Deviation
++ Frequency Distribution
++ Bar Graph
++ Dot Plot
++ Scatterplots
++ Correlation Co-efficient
++ Pie Chart
++ Histograms
++ Cumulative Frequency
++ Cumulative plots
++ Skewness
++ Goodness of Fit
++ Transformations
++ Trimmed Mean
++ Reliability Coefficient
++ Linear regression
++ Logistic Regression
++ Quadratic Regression
++ Regression Intercept Confidence Interval
++ Residual sum of squares
++ Equation Sum of Square
++ Standard Error ( SE )
++ Root Mean Square
++ Cohen's kappa coefficient
++ Ti 83 Exponential Regression
++ Shannon Wiener Diversity Index
+
+### Statistics: Inferential
+
++ Statistics Notation
++ Sample planning
++ Sampling methods
++ Simple random sampling
++ Stratified sampling
++ Cluster sampling
++ Required Sample Size
++ Hypothesis testing
++ Signal to Noise Ratio
++ Best Point Estimation
++ Type I & II Error
++ T-Distribution Table
++ Residual analysis Z table
++ F Test Table
++ Chi Squared table
++ Statistical Significance
++ Co-efficient of Variation Interval
++ Student T Test
++ One Proportion Z Test
++ Kolmogorov Smirnov Test
++ Mcnemar Test
++ Anova(1-way,2-way)
++ Manova
++ Chi-square test
+
+## Probability:
+
++ Overview 
++ Principal Of Counting
++ Factorial
++ Probability
++ Odd and Even Permutation
++ Permutation with Replacement
++ Circular Permutation
++ Geometric Probability Distribution
++ Probability Density Function
++ Probability Bayes Theorem
++ Permutation
++ Combination
++ Black-Scholes model
++ Probability Additive Theorem
++ Combination with replacement
++ Probability Multiplecative Theorem
++ Estimation Process Capability (Cp) & Process Performance (Pp)
++ Statistics Formulas
++ Conditional Probability 
++ Binomial Distribution
++ Random variable 
++ Expectation and variance
+
+# Learning Path - Based on DS / ML / DL / AI Domain
+
+## Data Science (DS)
+
+### Introduction to Data Science 
+
++ Overview of Data Science and Data Science Terms
+	+ Data PreProcessing
+	+ Data Imputation
+	+ Data Cleaning
+	+ Data Transformation
+	+ Data Visualization
+	+ Data Analysis
+	+ Data Engineering - Big Data
++ Data, Data Types
++ Meaning of Variables
++ Central Tendency
++ Measures of Dispersion
++ Data Distribution
+
+### Data Exploration / Visualizaion 
+
++ Data Exploration 
++ Data Visualization
++ Data Visualization Libraries 
+
+## Neural Networks 
+
++ Perceptron
++ MLP
++ Back Propagation
++ Revision of Key Concepts
+
+### ANOVA/ Regression Analysis
+
++ Analysis of Variance & Covariance
++ Analysis of Variance
++ ANOVA Results
++ Examine Regression Results
++ Regression Analysis
++ Linear and Logistic Regression
+
+## Machine Learning (ML)
+
++ Introduction to Machine Learning
++ Linear Regression 
++ Logistic Regression
++ Decision Tree 
++ Naives Bayes 
++ Clustering algorithms
++ KNN
++ support vector machines
++ k-nearest neighbors
++ regression trees
++ Bayesian Classification Models
++ Ensemble Learning Basics
++ Different Ensemble Learning methods with code 
++ Bagging (Bootstrap Aggregation)
++ Random Forest - Simplified
++ Random Forest - Detailed with implementation 
++ Boosting - Simplified
++ Boosting - Detailed with implementation 
 
 ### Machine Learning with Real Time Examples 
+
 + Building Linear Regressors
 + Interpreting Regression Results and Interactions Terms
 + Performing Residual Analysis & Extracting Extreme Observations Cook's Distance
@@ -820,7 +691,58 @@
 + A Complete Comparison of Every DL Packages in R
 + Research Directions and Open Questions
 
-### Big Data & Hadoop with Real Time Examples 
+#### Hyperparameter tuning
+
++ Different methods for finding best hyperparameters of an algorithm 
++ Hyperparameter tuning for Random Forest 
++ Hyperparameter tuning for GBM
++ Hyperparameter tuning for XGBoost 
++ Hyperparameter tuning for LightGBM 
+
+## Introduction to Deep learning
+
++ What is Neural Networks?
++ Theory and Implementation
+
+## CNN
+
++ Introduction to CNN
++ Theory 
++ Implementation
+ 
+## RNN
+
++ Theory 
++ Implementation
+
+## LSTM
+
++ Theory 
++ Implementation
+
+## Computer Vision
+
++ Image Classification 
++ Object detection/Localisation
++ Research papers
+
+## Speech
+
++ Audio classification - Theory and Implementation 
++ Speech recognition - Theory and implementation  
++ Speaker Identification - Theory and implementation  
+
+## Natural language processing
+
++ Text Classification
++ Competition
++ Text Summarization
++ Author Identification
++ Competition
++ Machine Translation
+
+## Big Data & Hadoop with Real Time Examples 
+
 + Introduction to Big Data
 + Getting started with Hadoop
 + Hive Concepts
@@ -828,62 +750,77 @@
 + Use case on log collections & analysis
 + Use Case on Ecommerece
 
-### Tableau with Real Time Examples
-+ Working with different data source
-+ Tableau Interface
-+ Working with Charts
-+ Functions with Calculations
-+ Advanced Topics - Actions, Parameters, Filters
-+ Table Calculations, Advanced Dashboards, Storytelling
-+ Connectivity with R
+
+# Learning Path - Based on Learning Sites 
+
+> Coursera / Edx.org / Udemy / Udacity / Nvidia / Microsoft AI School
+
+### Courses on edx.com:
+
++ Analytics in Python
++ Introduction to Data Science
++ Introduction to R for Data Science
++ Introduction to Python for Data Science
++ Data Science Essentials
++ Introduction to Python: Fundamentals
++ Introduction to python: Absolute Beginner
++ Python for Data Science
++ Data Science: R Basics
++ Programming with Python for Data Science
++ Principles of Machine Learning 
 
 
-A data science syllabus typically considers all life cycle stages of data processing.
-+ Data PreProcessing
-+ Data Imputation
-+ Data Cleaning
-+ Data Transformation
-+ Data Visualization
-+ Data Analysis
-+ Data Engineering - Big Data
-Of these Data Analysis forms the chunk with a coverage of all Machine Learning algorithms - Regression, Clustering, Market Basket Analysis, Classification and Network Analysis and Recommendation Systems. The subdomains of machine learning, classification, cluster analysis, uncertainty quantification, computational science, data mining, databases, and visualization.
-A programming language like R or Python and all above data task related packages are taught in such a program.
+# Learning Path - Based on Cloud Environment 
 
-### Skills we will learn
-+ Science: determining what questions can be answered with data and what are the best datasets for answering them
-+ Computer programming: using computers to analyze data
-+ Data wrangling: getting data into analyzable form on our computers 
-+ Statistics: separating signal from noise
-+ Machine learning: making predictions from data
-+ Communication: sharing findings through visualization, stories and interpretable summaries
+> MS Azure/AWS/Google Cloud
 
-### Specific concepts and principles
+# Learning Path - Based on Learners' Comfort Level 
 
-+ Science: gain experience asking questions.
-+ Computer programming: R, GitHub, 
-+ Data wrangling: R libraries for reading data tables and scrapping web pages.
-+ Statistics: exploratory data analysis, inference, estimation, conditional probabilities, regression, modeling, Bayesian statistics, and more.
-+ 
-+ Communication: ggplot and in-class practice 
+> Beginner/Intermediate/Advance
 
-### What you need to do?
-+ Download R and RStudio
-+ Create a GitHub account
-+ Explore the courses
-+ Build, Collaborate, Share and Ask Questions
+# Learning Path - Based on types of Data 
 
-## Where the data scinece is being used 
-+ Spellcheckers
-+ Speech recognition
-+ Language translators
-+ Digitizing books
-+ Social sciences
-+ Medical diagnostics
-+ Personalized medicine
-+ Basic Biology
-+ Autonomous Car Driving
-+ Humanoids with AI capabilities
++ Image data 
++ Text data 
++ Audio data 
 
-### Useful Resources 
-+ Git 
-+ Blogs and Newsletters
+# Projects
+
+### Machine learning projects
+
++ Black friday
++ Loan Prediction
++ Big mart sales
+
+### Small Projects
+
++  Law Of Large Numbers
++  Financial Statement Analysis
++  Basketball Free Throws
++  World Trends
++  Movie Domestic % Gross
+
+## Online learning algorithms
+
++ Factorisation machines
++ Field-Aware Factorization Machines 
++ Implementation using XLearn
++ Introduction to Vowpal Wabbit
+
+# Usefull Links 
+
+> Hackathons sites / Blogs and Newsletters  / Quizzes / Git Code Repositories / Data Repositories sites
+
++ AnalyticsVidya
++ Kaggle
++ R-bloggers 
+
+# Way Forward
+
++ Profile Building
++ Introduction to Github
++ Building your Resume
++ Participating in Competitions to Face Real World Scenarios
++ Project and Certifications
++ Jobs and Internships
+
