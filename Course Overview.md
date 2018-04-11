@@ -1,224 +1,36 @@
 # Detailed Data Science and Machine Learning Course Content
 
-### Introduction to Data Science
+# Learning & Development Environment Set Ups
 
-### What does a data scientist do?
-
-### Development Environment / System Setup
-+ How to setup a machine?
 + Setting up Anaconda for Python and Jupyter Notebook
 + Setting up R and R studio
 + Setting up TenserFlow
 + Setting up account for Azure Machine Learning
 + Setting up OpenCV
 
+# Learning Path - Based on Programming / Scripting Language (R, Python, JavaScript etc.)
+
 ### Getting Started in Python
+
 + Python Basics – Numbers and Maths
 + Variables and Inputs
 + Lists, sets and tuples 
 + Dictionary  
 + Conditional Statements 
 + Loops
-+ Reading and Writing
- 
++ Reading and Writing files
 
-### Introduction to Statistics 
-+ Overview 
-+ Important applications of Statistics
+### Introduction to Python Libraries
 
-### Statistics: Descriptive
-+ What is Descriptive Statistics?
-+ Introduction to Design experiments
-+ Visualizing Data 
-+ Central tendency
-+ Variability
-+ Normal distribution – Part 1
-+ Normal distribution – Part 2
-+ Z-Score 
++ Pandas 
++ Scikit-learn
++ NumPy
++ SciPy
 
-### Statistics: Inferential
-+ Hypothesis Testing 
-+ T-test 
-+ One Way ANOVA 
-+ Chi-square 
-
-### Introduction to Pandas 
-
-### Introduction to Scikit-learn
-
-### Introduction to numPy
- 
-
-### Data Exploration/ Visualizaion 
-+ Data Exploration 
-+ Data Visualization
-+ Data Visualization Libraries
- 
-
-### Introduction to Probability
-+ Overview 
-+ Principal Of Counting
-+ Permutation  
-+ Combination  
-+ Conditional Probability 
-+ Binomial Distribution
-+ Random variable 
-+ Expectation and variance
- 
-
-### Basics of Machine Learning 
-+ Introduction to Machine Learning
-+ Linear Regression 
-+ Logistic Regression
-+ Decision Tree 
-+ Naives Bayes 
-+ Clustering algorithms
-+ KNN 
- 
-
-### Advanced Machine Learning
-+ Ensemble Learning Basics
-+ Different Ensemble Learning methods with code 
-+ Bagging (Bootstrap Aggregation)
-+ Random Forest - Simplified
-+ Random Forest - Detailed with implementation 
-+ Boosting - Simplified
-+ Boosting - Detailed with implementation 
- 
-
-### Validation strategies
-+ Introduction to validation
-+ Hold out cross validation
-+ Leave one out cross validation
-+ k-fold cross validation
-+ Implementation in Python
-+ Implementation in R
-+ Summary 
- 
-
-### Hyperparameter tuning
-+ Different methods for finding best hyperparameters of an algorithm 
-+ Hyperparameter tuning for Random Forest 
-+ Hyperparameter tuning for GBM
-+ Hyperparameter tuning for XGBoost 
-+ Hyperparameter tuning for LightGBM 
-
-### Machine learning projects
-+ Black friday
-+ Loan Prediction
-+ Big mart sales
-
-### Working with different types of Data
-+ Image data 
-+ Text data 
-+ Audio data 
-+ Projects 
-
-### Online learning algorithms
-+ Factorisation machines
-+ Field-Aware Factorization Machines 
-+ Implementation using XLearn
-+ Introduction to Vowpal Wabbit
-+ Projects 
-
-### Introduction to Deep learning
-+ What is Neural Networks?
-+ Theory and Implementation
- 
-
-### CNN
-+ Introduction to CNN
-+ Theory 
-+ Implementation
- 
- 
-
-### RNN
-+ Theory 
-+ Implementation
-
-### LSTM
-+ Theory 
-+ Implementation
-
-### Computer Vision
-+ Image Classification 
-+ Object detection/Localisation
-+ Research papers
-
-### Speech
-+ Audio classification - Theory and Implementation 
-+ Speech recognition - Theory and implementation  
-+ Speaker Identification - Theory and implementation  
-
-### Natural language processing
-+ Text Classification
-+ Competition
-+ Text Summarization
-+ Author Identification
-+ Competition
-+ Machine Translation
-
-### Way Forward
-+ Profile Building
-+ Introduction to Github
-+ Building your Resume
-+ Participating in Competitions
-+ Project and Certifications
-+ Jobs and Internships
-
-### Courses on edx.com:
-+ Analytics in Python
-+ Introduction to Data Science
-+ Introduction to R for Data Science
-+ Introduction to Python for Data Science
-+ Data Science Essentials
-+ Introduction to Python: Fundamentals
-+ Introduction to python: Absolute Beginner
-+ Python for Data Science
-+ Data Science: R Basics
-+ Programming with Python for Data Science
-+ Principles of Machine Learning 
-
-# Data Science Basics 
-
-### All about Data Science 
-+ Data, Data Types
-+ Meaning of Variables
-+ Central Tendency
-+ Measures of Dispersion
-+ Data Distribution
-
-### Predictive Modelling 
-+ Decision Trees
-+ Neural Networks
-+ Predictive Modeling with Decision Trees
-
-### Neural Networks 
-+ Perceptron
-+ MLP
-+ Back Propagation
-+ Revision of Key Concepts
-
-### ANOVA/ Regression Analysis
-### 
-+ Analysis of Variance & Covariance
-+ Analysis of Variance
-+ ANOVA Results
-+ Examine Regression Results
-+ Regression Analysis
-+ Linear and Logistic Regression
-
-### Tree and Bayesian Network Models 
-+ Decision Trees
-+ Bagging
-+ Random Forests
-+ Boosted Trees
-+ Bayesian Classification Models
-
-### R Programming 
+## R Programming 
 
 ### R Basics 
+
 + R Base Software
 + Understanding CRAN
 + R Studio The IDE
@@ -229,6 +41,7 @@
 + R Functions
 
 ### Logistic Regression in R 
+
 + Reason for Logistic Regression
 + The Logistic Transform
 + Logistic Regression Modelling
@@ -237,6 +50,7 @@
 + Default Modelling using Logistic Regression in R
 
 ### Decision Trees 
+
 + Theory of Entropy & Information Gain
 + Stopping Rules
 + Cross Validations for Overfitting Problem
@@ -247,6 +61,7 @@
 + Intrusion Detection in IT Network
 
 ### Linear Regression in R 
+
 + Covariance and Correlation
 + Multivariate Analysis
 + Hypothesis Testing
@@ -255,6 +70,7 @@
 + Loss Given Default using Linear Regression
 
 ### Support Vector Machine 
+
 + Classification as a Hyper Plane Location Problem
 + Motivation for Linear Support Vectors
 + Quadratic Optimization
@@ -262,15 +78,17 @@
 + Kernel Functions
 + Default Modelling using SVM in R
 
-### Python Programming 
+## Python Programming 
 
 ### Python Basics 
+
 + What is Python?
 + Installing Anaconda
 + Understanding the Spyder Integrated Development Environment (IDE)
 + Lists, Tuples, Dictionaries, Variables
 
 ### Data Frame Manipulation 
+
 + Data Acquisition
 + Indexing, Filtering
 + Sorting & Summarizing
@@ -279,12 +97,14 @@
 + Discretization and Binning
 + String Manipulation
 
-### Project
+## Project
+
 + Default Modeling using Logistic Regression in Python
 + Credit Risk Analytics using SVM in Python
 + Intrusion Detection using Decision Trees & Ensemble Learning in Python
 
 ### Data Structures in Python
+
 + Intro to Numpy Arrays
 + Creating ndarrays
 + Indexing
@@ -293,13 +113,15 @@
 + Getting Started with Pandas
 
 ### Other Predictive Modelling Tools 
+
 + Intro to Machine Learning
 + Random Forests
 + Sklearn Library and Statsmodels
 
 ## SAS Programming 
 
-### SAS Basics 
+### SAS Basics
+
 + Key Features
 + Submitting a SAS Program
 + SAS Program Syntax
@@ -309,13 +131,15 @@
 + Using SAS Formats
 
 ### Data Transformations 
+
 + Writing Observations
 + Writing to Multiple Datasets
 + Accumulating Total
 + Creating Accumulating Total for a Group of Data
 + Data Transformations
 
-### SQL 
+## Working with SQL
+
 + SQL & RDBMS
 + SQL Procedures
 + Presenting & Summarizing Data
@@ -325,6 +149,7 @@
 + Creating Tables and Views using Proc SQL
 
 ### Reading and Manipulating Data 
+
 + Reading SAS Datasets
 + Reading Excel Data
 + Reading Raw Files
@@ -333,6 +158,7 @@
 + Combining Datasets
 
 ### Macros 
+
 + Automatic Macro Variables
 + User Defined Macro Variables
 + Macro Variable Reference
@@ -348,6 +174,7 @@
 ## Tableau and Job Readiness 
 
 ### Tableau Basic 
+
 + Introduction to Visualization
 + Working with Tableau
 + Visualization in Depth
@@ -357,74 +184,22 @@
 + Enterprise Dashboards
 + Data Presentation
 
-### Best Practices for Dash boarding and Reporting and Case Study 
-+ Have a Methodology
-+ Know Your Audience
-+ Define Resulting Actions
-+ Classify Your Dashboard
-+ Profile Your Data
-+ Use Visual Features Properly
-+ Design Iteratively
+# Learning Path - Based on Mathematics / Statistics / Algorithms
 
-### Mock Interviews 
-+ Resume Building and Interview Prep
-+ 1:1 Mock Interviews with Industry Veterans
-+ Clear the Technical Round of Interviews
-+ Give You Confidence to Face Real World Scenarios
+### Introduction to Statistics 
 
-### R with Real Time Examples
-+ Installing R and R Studio (MAC & Windows)
-+ Types of variables
-+ Using Variables
-+ Logical Variables and Operators
-+ The "While" Loop
-+ Using the console
-+ The "For" Loop
-+ The "If" statement
-+ What is a Vector?
-+ Let's create some vectors
-+ Using the \[\] brackets
-+ Vectorized operations
-+ The power of vectorized operations
-+ Functions in R
-+ Packages in R
-+ Matrices
-+ Building Your First Matrix
-+ Naming Dimensions
-+ Colnames() and Rownames()
-+ Matrix Operations
-+ Visualizing With Matplot()
-+ Subsetting
-+ Visualizing Subsets
-+ Creating Your First Function
-+ Importing data into R
-+ Exploring your dataset
-+ Using the $ sign
-+ Basic operations with a Data Frame
-+ Filtering a Data Frame
-+ Introduction to qplot
-+ Building Dataframes
-+ Merging Data Frames
-+ Loop Functions
-	+ lapply()
-	+ sapply()
-	+ apply()
-	+ tapply()
-	+ mapply()
-+ Regular Expressions
-+ Saving r objects
-+ dplyr package
-+ Shiny Apps
++ Overview 
++ Important applications of Statistics
 
+### Statistics: Descriptive
 
-### Homework Solutions
-+ Homework Solution Law Of Large Numbers
-+ Homework Solution Section 3: Financial Statement Analysis
-+ Homework Solution Section 4: Basketball Free Throws
-+ Homework Solution Section 5: World Trends
-+ Homework Solution Section 6: Movie Domestic % Gross
-
-## Statistics with R
++ What is Descriptive Statistics?
++ Introduction to Design experiments
++ Visualizing Data 
++ Central tendency
++ Variability
++ Normal distribution
++ Z-Score 
 
 ### Descriptive:
 + Data collection
@@ -510,6 +285,7 @@
 + Shannon Wiener Diversity Index
 
 ### Inferential
+
 + Statistics Notation
 + Sample planning
 + Sampling methods
@@ -528,7 +304,8 @@
 + Statistical Significance
 + Co-efficient of Variation Interval
 
-### Rcode for Inferential:
+### Tests - Inferential:
+
 + Student T Test
 + One Proportion Z Test
 + Kolmogorov Smirnov Test
@@ -538,6 +315,9 @@
 + Chi-square test
 
 ### Probability:
+
++ Overview 
++ Principal Of Counting
 + Factorial
 + Probability
 + Odd and Even Permutation
@@ -554,6 +334,280 @@
 + Probability Multiplecative Theorem
 + Estimation Process Capability (Cp) & Process Performance (Pp)
 + Statistics Formulas
++ Conditional Probability 
++ Binomial Distribution
++ Random variable 
++ Expectation and variance
+
+# Learning Path - Based on DS / ML / DL / AI Domain
+
+## Introduction to Data Science (DS)
+
+### All about Data Science 
+
++ Data, Data Types
++ Meaning of Variables
++ Central Tendency
++ Measures of Dispersion
++ Data Distribution
+
+### Data Exploration / Visualizaion 
+
++ Data Exploration 
++ Data Visualization
++ Data Visualization Libraries 
+
+### Predictive Modelling 
+
++ Decision Trees
++ Neural Networks
++ Predictive Modeling with Decision Trees
+
+### Neural Networks 
++ Perceptron
++ MLP
++ Back Propagation
++ Revision of Key Concepts
+
+### ANOVA/ Regression Analysis
+
++ Analysis of Variance & Covariance
++ Analysis of Variance
++ ANOVA Results
++ Examine Regression Results
++ Regression Analysis
++ Linear and Logistic Regression
+
+### Tree and Bayesian Network Models 
+
++ Decision Trees
++ Bagging
++ Random Forests
++ Boosted Trees
++ Bayesian Classification Models
+
+### Basics of Machine Learning (ML)
+
++ Introduction to Machine Learning
++ Linear Regression 
++ Logistic Regression
++ Decision Tree 
++ Naives Bayes 
++ Clustering algorithms
++ KNN
+
+### Advanced Machine Learning
+
++ support vector machines
++ k-nearest neighbors
++ regression trees
++ Ensemble Learning Basics
++ Different Ensemble Learning methods with code 
++ Bagging (Bootstrap Aggregation)
++ Random Forest - Simplified
++ Random Forest - Detailed with implementation 
++ Boosting - Simplified
++ Boosting - Detailed with implementation 
+
+### Hyperparameter tuning
+
++ Different methods for finding best hyperparameters of an algorithm 
++ Hyperparameter tuning for Random Forest 
++ Hyperparameter tuning for GBM
++ Hyperparameter tuning for XGBoost 
++ Hyperparameter tuning for LightGBM 
+
+### Introduction to Deep learning
+
++ What is Neural Networks?
++ Theory and Implementation
+
+### CNN
+
++ Introduction to CNN
++ Theory 
++ Implementation
+ 
+### RNN
+
++ Theory 
++ Implementation
+
+### LSTM
+
++ Theory 
++ Implementation
+
+### Computer Vision
+
++ Image Classification 
++ Object detection/Localisation
++ Research papers
+
+### Speech
+
++ Audio classification - Theory and Implementation 
++ Speech recognition - Theory and implementation  
++ Speaker Identification - Theory and implementation  
+
+### Natural language processing
+
++ Text Classification
++ Competition
++ Text Summarization
++ Author Identification
++ Competition
++ Machine Translation
+
+# Learning Path - Based on Learning Sites (Coursera / Edx / Udemy / Udacity / Nvidia / MicrosoftAI etc.)
+
+### Courses on edx.com:
+
++ Analytics in Python
++ Introduction to Data Science
++ Introduction to R for Data Science
++ Introduction to Python for Data Science
++ Data Science Essentials
++ Introduction to Python: Fundamentals
++ Introduction to python: Absolute Beginner
++ Python for Data Science
++ Data Science: R Basics
++ Programming with Python for Data Science
++ Principles of Machine Learning 
+
+
+# Learning Path - Based on Cloud Environment (MS Azure / AWS / Google Cloud)
+
+# Learning Path - Based on Learners Comfort Level (Beginner/ Intermediate / Advance)
+
+## Usefull Links - Hackathons / Projects / Quizzes
+
+## References
+
+
+
+
+
+
+
+
+
+### What does a data scientist do?
+
+
+
+### Validation strategies
+
++ Introduction to validation
++ Hold out cross validation
++ Leave one out cross validation
++ k-fold cross validation
++ Implementation in Python
++ Implementation in R
++ Summary 
+
+### Machine learning projects
+
++ Black friday
++ Loan Prediction
++ Big mart sales
+
+### Working with different types of Data
+
++ Image data 
++ Text data 
++ Audio data 
+
+### Online learning algorithms
++ Factorisation machines
++ Field-Aware Factorization Machines 
++ Implementation using XLearn
++ Introduction to Vowpal Wabbit
++ Projects 
+
+
+
+### Way Forward
++ Profile Building
++ Introduction to Github
++ Building your Resume
++ Participating in Competitions
++ Project and Certifications
++ Jobs and Internships
+
+
+
+
+### Best Practices for Dash boarding and Reporting and Case Study 
+
++ Have a Methodology
++ Know Your Audience
++ Define Resulting Actions
++ Classify Your Dashboard
++ Profile Your Data
++ Use Visual Features Properly
++ Design Iteratively
+
+### Mock Interviews 
+
++ Resume Building and Interview Prep
++ 1:1 Mock Interviews with Industry Veterans
++ Clear the Technical Round of Interviews
++ Give You Confidence to Face Real World Scenarios
+
+### R with Real Time Examples
++ Installing R and R Studio (MAC & Windows)
++ Types of variables
++ Using Variables
++ Logical Variables and Operators
++ The "While" Loop
++ Using the console
++ The "For" Loop
++ The "If" statement
++ What is a Vector?
++ Let's create some vectors
++ Using the \[\] brackets
++ Vectorized operations
++ The power of vectorized operations
++ Functions in R
++ Packages in R
++ Matrices
++ Building Your First Matrix
++ Naming Dimensions
++ Colnames() and Rownames()
++ Matrix Operations
++ Visualizing With Matplot()
++ Subsetting
++ Visualizing Subsets
++ Creating Your First Function
++ Importing data into R
++ Exploring your dataset
++ Using the $ sign
++ Basic operations with a Data Frame
++ Filtering a Data Frame
++ Introduction to qplot
++ Building Dataframes
++ Merging Data Frames
++ Loop Functions
+	+ lapply()
+	+ sapply()
+	+ apply()
+	+ tapply()
+	+ mapply()
++ Regular Expressions
++ Saving r objects
++ dplyr package
++ Shiny Apps
+
+
+### Homework Solutions
+
++ Homework Solution Law Of Large Numbers
++ Homework Solution Section 3: Financial Statement Analysis
++ Homework Solution Section 4: Basketball Free Throws
++ Homework Solution Section 5: World Trends
++ Homework Solution Section 6: Movie Domestic % Gross
+
 
 ### Machine Learning with Real Time Examples 
 + Building Linear Regressors
@@ -804,11 +858,12 @@ A programming language like R or Python and all above data task related packages
 + Communication: sharing findings through visualization, stories and interpretable summaries
 
 ### Specific concepts and principles
+
 + Science: gain experience asking questions.
 + Computer programming: R, GitHub, 
 + Data wrangling: R libraries for reading data tables and scrapping web pages.
 + Statistics: exploratory data analysis, inference, estimation, conditional probabilities, regression, modeling, Bayesian statistics, and more.
-+ Machine learning: support vector machines, k-nearest neighbors, regression trees, random forests, boosting,
++ 
 + Communication: ggplot and in-class practice 
 
 ### What you need to do?
