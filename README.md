@@ -16,7 +16,7 @@ We've compiled a list of _courses_ and _resources_ on **Data Science and Machine
 
 ### Learning Paths
 
-+ [Learning Path - Data Science using Python](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20Python.md)
-+ [Learning Path - Data Science using R](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20R.md)
-+ [Learning Path - Statistics and Data Science](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Statistics%20and%20Data%20Science.md)
++ [Data Science using Python](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20Python.md)
++ [Data Science using R](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20R.md)
++ [Statistics and Data Science](https://github.com/InfyMLMeetup/ML/blob/master/Learning%20Paths/Learning%20Path%20-%20Statistics%20and%20Data%20Science.md)
 
