@@ -18,7 +18,7 @@
 +
 ### Extras
 + Online Stats Book (http://onlinestatbook.com/2/index.html) - includes some nice simulations
-+ For Linera Algebra, Vectors, etc., check Youtibe channel 3Blue1Brown (https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
++ For Linera Algebra, Vectors, etc., check Youtube channel 3Blue1Brown (https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 +
 
 ## Intermediate
